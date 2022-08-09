@@ -1,1 +1,1 @@
-Scrima's password generator project in its simplest form.
+Scrimba's Password Generator project in its simplest form.
