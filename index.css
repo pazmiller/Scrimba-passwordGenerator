@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color:#1C1C1C;
+    color:white;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}
+
+h3{
+    color: #D5D4D8
+}
+
+.btn{
+    background: #10B981;
+    padding: 9px 17px 9px 15px;
+    position: absolute;
+    width: 191px;
+    top: 214px;
+    border-radius: 6px;
+}
+
+hr{
+    position: absolute;
+    width: 565px;
+    top: 299px;
+    border-top: 1px solid #2F3E53;
+}
+
+.pass1{
+
+    text-align: center;
+    display:inline-block;
+    background: #273549;
+    border:#4ADF86;
+    border-radius: 5px;
+    position: absolute;
+    width: 185px;
+    padding: 10px;
+    top: 364px;
+
+}
+.pass2{
+    text-align: center;
+    background: #273549;
+    display:inline-block;
+    border:#4ADF86;
+    position: absolute;
+    width: 185px;
+    padding: 10px;
+    left: 352px;
+    top: 364px;
+    border-radius: 5px;
+}
+.first{
+    color:white;
+
+}
+
+.second{
+    color:#4ADF86;
+}
